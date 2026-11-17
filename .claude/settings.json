@@ -1,0 +1,13 @@
+{
+  "enabledPlugins": {
+    "pixel-themes@aqua2409z": true
+  },
+  "extraKnownMarketplaces": {
+    "aqua2409z": {
+      "source": {
+        "source": "github",
+        "repo": "aqua2409z/pixel-chat-themes"
+      }
+    }
+  }
+}
